@@ -15,3 +15,4 @@ The token mints **1000 FTR tokens** to the address specified during deployment.
 The contract inherits from OpenZeppelin's ERC20 implementation to ensure standard compatibility and security best practices.
 
 
+
