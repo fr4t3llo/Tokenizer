@@ -16,6 +16,3 @@ To deploy the **Fr42t3llo (FTR)** token, we used the **Remix IDE**. Here's a cle
    - Choose the correct contract (**Fr42t3llo**).
    - Enter the recipient Ethereum address in the constructor input field.
 5. Click **Deploy**, then approve the transaction in MetaMask.
-
-### 🛡️ Note
-No secrets (like API keys or passwords) are hardcoded or visible at any point. If any appear, the evaluation must be stopped immediately.

@@ -91,17 +91,14 @@ After deployment, you can:
 
 ---
 
-## 🎥 Optional: Demonstration Video
+## ⚙️ Token Usage
 
-It is recommended to include a short video that shows:
-
-- Deployment process using Remix  
-- Token transfer between accounts  
-- Contract interactions via MetaMask or Remix interface  
-
-This helps users better understand the token's usage.
+- Sales and payments  
+- In-app rewards  
+- NFT integrations  
 
 ---
+
 
 ## 📜 Documentation Folder Usage
 
@@ -112,9 +109,21 @@ This folder is provided to allow users to fully understand how the Fr42t3llo Tok
 - Follow detailed steps for Remix-based deployment  
 - Identify the language and platform used  
 
-A short video is optional but recommended for better visual explanation.
-
 ---
+
+HOW YOU CAN SEE TOKEN IN METAMASK 
+
+Click Import Tokens in MetaMask.
+
+change network to eth or other network
+
+Enter the contract address you just deployed.
+
+Symbol: FTR
+
+Decimals: 18
+
+Confirm → Now you can see and use your tokens.
 
 ## 📄 License
 
